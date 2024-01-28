@@ -31,9 +31,9 @@ As the DM, I’m going to be putting a lot of time into prepping this adventure 
 ## Session Zero
 You will not have to prep a character until session zero. I will provide all character sheets and other things for character creation.
 ### Important Information to Consider
-**Feywild Campaign.** The adventure takes place mostly in the feywild. There will be a lot of wilderness exploration. </br> 
-**Level 1-8.** The Adventure starts at 1st and ends as the characters reach 8th level. It will be a good idea to plan on playing characters that are fun at lower levels, instead of ones that aren't as fun until higher levels.</br> 
-**Darkly Whimsical.** The adventure draws from Alice in Wonderland and Brothers Grimm's Fairy Tales. </br> 
+**Feywild Campaign.** The adventure takes place mostly in the feywild. There will be a lot of wilderness exploration.<br /> 
+**Level 1-8.** The Adventure starts at 1st and ends as the characters reach 8th level. It will be a good idea to plan on playing characters that are fun at lower levels, instead of ones that aren't as fun until higher levels.<br /> 
+**Darkly Whimsical.** The adventure draws from Alice in Wonderland and Brothers Grimm's Fairy Tales. <br /> 
 **Roleplay Emphasis.** All encounters within the adventure can be avoided or resolved without resorting to combat.
 
 <img 
