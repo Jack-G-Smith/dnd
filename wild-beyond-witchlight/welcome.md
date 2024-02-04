@@ -37,6 +37,6 @@ You will not have to prep a character until session zero. I will provide all cha
 **Roleplay Emphasis.** All encounters within the adventure can be avoided or resolved without resorting to combat.
 
 ---
-# Learn about the Feywild <a href="/wild-beyond-witchlight/feywild.md">here</a>!
+# Learn about the Feywild <a href="/wild-beyond-witchlight/feywild">here</a>!
 
-<img src='https://i.imgur.com/RaA44f3.png' style='position:absolute;bottom:100px;right:50px;width:350px'/>
+<img src='https://i.imgur.com/RaA44f3.png' style='width:800px'/>

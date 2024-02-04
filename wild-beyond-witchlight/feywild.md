@@ -122,7 +122,5 @@ permission.
 accept it and give something equal in value in return
 (although not immediately)
 
-<img 
-  src='https://i.imgur.com/2cAKX4h.png' 
-  style='position:absolute;bottom:70px;right:1px;width:800px'/>
+<img src='https://i.imgur.com/2cAKX4h.png' style='width:800px'/>
 
