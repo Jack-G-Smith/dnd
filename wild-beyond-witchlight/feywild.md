@@ -59,9 +59,7 @@ well-guarded secrets, as the fey don’t want just anybody to be
 given carte blanche access to the powerful magics that reside
 in the land of faeries.
 
-<img 
-  src='https://media.dndbeyond.com/compendium-images/twbtw/JtUXxjur9QWtb7E3/03-007.fungus.png' 
-  style='position:absolute;bottom:45px;right:100px;width:625px' />
+<img src='https://media.dndbeyond.com/compendium-images/twbtw/JtUXxjur9QWtb7E3/03-007.fungus.png' align="right" style='width:625px' />
 
 
 ## Traveling throughout the Feywild
