@@ -25,6 +25,8 @@ not lulled into a sense of complacency by the Feywild’s
 beauty. The sporadic, magical nature of this land can kill
 mortals as quickly as any of its dangerous inhabitants.
 
+<img src='https://i.imgur.com/2cAKX4h.png' align="right" style='width:800px'/>
+
 ### History of the Feywild
 The Feywild’s history might be difficult to chart across
 editions, but it is known to have the following traits:
@@ -121,6 +123,3 @@ permission.
 - **Rule of Reciprocity.** When you receive a gift, you must
 accept it and give something equal in value in return
 (although not immediately)
-
-<img src='https://i.imgur.com/2cAKX4h.png' style='width:800px'/>
-

@@ -13,6 +13,8 @@ Hourglass Coven.
 <br />The Wild Beyond the Witchlight takes adventurers from the
 Witchlight Carnival to Prismeer, a Feywild domain of delight.
 
+<img src="https://i.imgur.com/RaA44f3.png" style="width:350px" align="right" />
+
 ### Notes from the DM
 Just some basic stuff first before getting into the nitty-gritty...
 - This may be a pre-written adventure, but it's important to remember that it's also _our_ adventure. That means it's possible (and likely) that we'll have plenty of creative twists and turns along the way - both planned and unplanned. I encourage everyone to engage with the story in creative and fun ways!
@@ -38,5 +40,3 @@ You will not have to prep a character until session zero. I will provide all cha
 
 ---
 # Learn about the Feywild <a href="/wild-beyond-witchlight/feywild">here</a>!
-
-<img src='https://i.imgur.com/RaA44f3.png' style='width:800px'/>
