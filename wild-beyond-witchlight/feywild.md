@@ -8,7 +8,7 @@ has similar topography and geography to the
 mortal world, though exact locations are
 constantly shifting and are therefore impossible to plot.
 
-</br> Although the general geography of the Feywild and the
+<br /> Although the general geography of the Feywild and the
 Material Plane is similar, the Feywild has a much more
 primal landscape. Nature rules in the lands of fey. Where you
 would find sprawling cities in the Material Plane, you might
@@ -39,7 +39,7 @@ Due to the Feywild’s close relationship with the Material
 Plane, crossing between the two is considered so easy that it
 is sometimes done by accident.
 
-</br> Fey crossings — areas where the two planes converge — can
+<br /> Fey crossings — areas where the two planes converge — can
 be found in ruins and old forests, often changing locations
 based on the weather, alignment of the planets, or time of
 year. These portals are random enough that unwitting
@@ -49,7 +49,7 @@ the hapless traveler realizes that something is amiss, the
 portal might disappear, not to return for an hour, a day, or a
 century.
 
-</br> While the random convergences of the planes are dangerous
+<br /> While the random convergences of the planes are dangerous
 and chaotic, there are areas that act as permanent fey
 crossings for the purpose of intentional travel between the
 Material Plane and the Feywild. These crossings are usually
@@ -73,7 +73,7 @@ move between cities in the Feywild might have to cross
 through swamps full of poisonous gas or forests that attempt
 to trap travelers in a never-ending maze.
 
-</br>
+<br />
 Even if visitors from the Material Plane manage to survive
 the untamed wilderness, innumerable deadly creatures call
 the Plane of Faeries home. Because the magic that shapes
@@ -81,16 +81,16 @@ the Feywild is more chaotic and powerful than the Material
 Plane, even its most common creatures can be infused with
 power that can rival hardened adventurers.
 
-</br>Thus, those who journey to the Feywild — whether on
+<br />Thus, those who journey to the Feywild — whether on
 purpose or by chance — must tread carefully, for even the
 most innocuous-looking clearing or creature could lead to
 their end.
 
 ## Features of the Feywild
 **Everlasting Twilight.** The sun is ever setting, but never
-truly sets or rises. </br>
+truly sets or rises. <br />
 **Wild and Primal.** Nature in its primordial form; more
-vibrant, more alive, more primal. </br>
+vibrant, more alive, more primal. <br />
 **Parallel Plane.** An echo of the Material Plane, with
 parallel versions of landmarks and terrain features.
 
@@ -107,7 +107,7 @@ creature. To swear an oath or promise favors to another is
 reserved for times of desperation or maybe for a desire of
 extreme fun.
 
-</br> Furthermore, fey respect traditional laws like how cold iron
+<br /> Furthermore, fey respect traditional laws like how cold iron
 can stop them from entering, these boundaries act as walls
 and are as binding as shackles. When a fey makes a promise,
 they must deliver or face the wrath of those they have

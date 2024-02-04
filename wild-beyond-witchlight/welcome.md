@@ -4,13 +4,13 @@ joy to one settlement after the next. Its owners, Mister Witch and Mister Light,
 put on a good show. But there’s more to this
 magical extravaganza than meets the eye!
 
-</br> The carnival is a gateway to a fantastic Feywild domain
+<br /> The carnival is a gateway to a fantastic Feywild domain
 unlike anything found on the Material Plane. Time has not
 been kind to this realm, however, and dark days lie ahead
 unless someone can thwart the dastardly schemes of the
 Hourglass Coven.
 
-</br>The Wild Beyond the Witchlight takes adventurers from the
+<br />The Wild Beyond the Witchlight takes adventurers from the
 Witchlight Carnival to Prismeer, a Feywild domain of delight.
 
 ### Notes from the DM
